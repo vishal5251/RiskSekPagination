@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RiskSekPagination/static/css/main.2cac7f0e.css",
+    "main.js": "/RiskSekPagination/static/js/main.fd36b4a4.js",
+    "static/js/787.f25a9b92.chunk.js": "/RiskSekPagination/static/js/787.f25a9b92.chunk.js",
+    "index.html": "/RiskSekPagination/index.html",
+    "main.2cac7f0e.css.map": "/RiskSekPagination/static/css/main.2cac7f0e.css.map",
+    "main.fd36b4a4.js.map": "/RiskSekPagination/static/js/main.fd36b4a4.js.map",
+    "787.f25a9b92.chunk.js.map": "/RiskSekPagination/static/js/787.f25a9b92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cac7f0e.css",
+    "static/js/main.fd36b4a4.js"
+  ]
+}
